@@ -1,5 +1,7 @@
+import AboutMe from './AboutMe/AboutMe'
 import Hero from './Hero/Hero'
 import './Main.css'
+import MyWork from './MyWork/MyWork'
 import Skills from './Skills/Skills'
 
 const Main = () => {
@@ -7,6 +9,8 @@ const Main = () => {
         <main>
             <Hero />
             <Skills />
+            <MyWork />
+            <AboutMe />
         </main>
     </>
 }
