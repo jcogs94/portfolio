@@ -10,7 +10,7 @@ const Footer = () => {
             </div>
             <div id="socials">
                 <h4>Socials</h4>
-                <a href="http://www.linkedin.com/in/jonathan-cogswell-2b8588173">LinkedIn</a>
+                <a href="www.linkedin.com/in/jon-cogswell94">LinkedIn</a>
                 <a href="https://github.com/jcogs94">GitHub</a>
             </div>
         </footer>
