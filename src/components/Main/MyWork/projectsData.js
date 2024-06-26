@@ -1,3 +1,5 @@
+import qwixx from './img/qwixx.jpg'
+
 const projectsData = [
     {
         img: "",
@@ -28,7 +30,7 @@ const projectsData = [
         githubLink: "https://github.com/jcogs94/cruddy-cash.git"
     },
     {
-        img: "",
+        img: qwixx,
         name: "Qwixx",
         description: "Based on the dice game produced by GameWright, this app allows users to play the game without pen and paper.",
         liveLink: "",
