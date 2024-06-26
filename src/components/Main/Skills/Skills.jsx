@@ -9,11 +9,11 @@ const Skills = () => {
             <h1>Skills</h1>
             <div id='skill-group-container'>
                 {keys.map( (key) => (
-                    <div className='skill-group'>
+                    <div className='skill-group' key={key} >
                         <h3 className='skill-group-name'>{key}</h3>
                         <ul className='skill-group-list'>
-                            {skillData[key].map( (skill) => (
-                                <li className='skill'>{skill}</li>
+                            {skillData[key].map( (skill, index) => (
+                                <li className='skill' key={(key + '-' + index)}>{skill}</li>
                             ))}
                         </ul>
                     </div>

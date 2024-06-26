@@ -7,8 +7,8 @@ const MyWork = () => {
         <div id="my-work">
             <h2>My Work</h2>
             <div id="projects-container">
-                {projectsData.map( (project) => (
-                    <ProjectCard {...project} />
+                {projectsData.map( (project, index) => (
+                    <ProjectCard {...project} key={index} />
                 ))}
             </div>
         </div>
