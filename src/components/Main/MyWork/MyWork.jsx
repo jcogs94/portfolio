@@ -8,7 +8,7 @@ const MyWork = () => {
             <h2>My Work</h2>
             <div id="projects-container">
                 {projectsData.map( (project, index) => (
-                    <ProjectCard {...project} key={index} />
+                    <ProjectCard {...project} key={'project-' + index} />
                 ))}
             </div>
         </div>
