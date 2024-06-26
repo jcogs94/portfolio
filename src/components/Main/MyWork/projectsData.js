@@ -1,15 +1,17 @@
+import utiliSuite from './img/utiliSuite.jpg'
+import instrumentManagement from './img/instrumentManagement.jpg'
 import qwixx from './img/qwixx.jpg'
 
 const projectsData = [
     {
-        img: "",
+        img: utiliSuite,
         name: "UtiliSuite",
         description: "",
         liveLink: "",
         githubLink: "https://github.com/jcogs94/utiliSuite.git"
     },
     {
-        img: "",
+        img: instrumentManagement,
         name: "Instrument Rental Management",
         description: "An organization and management tool for tracking instrument rentals. I worked as the Lead Front-End Developer for this team project.",
         liveLink: "",
