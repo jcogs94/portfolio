@@ -1,5 +1,5 @@
 .project-card {
-    width: 500px;
+    width: 600px;
     padding: 20px;
 
     display: flex;
@@ -18,7 +18,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 610px) {
     .project-card {
         width: 100vw;
     }

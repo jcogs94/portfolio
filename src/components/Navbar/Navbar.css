@@ -27,3 +27,13 @@ nav {
         cursor: pointer;
     }
 }
+
+@media screen and (max-width: 450px) {
+    nav {
+        padding: 20px 15px;
+    }
+
+    #nav-links {
+        display: none;
+    }
+}
