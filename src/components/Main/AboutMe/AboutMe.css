@@ -21,7 +21,8 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
-    
-    /* > p {
-    } */
+}
+
+#download-resume {
+    cursor: pointer;
 }
