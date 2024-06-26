@@ -3,11 +3,13 @@
     margin: 0;
 }
 
-body {
+/* body {
     width: 100%;
+    position: absolute; */
+    /* max-width: 100vw; */
     
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     align-items: center;
-    justify-items: flex-start;
-}
+    justify-items: flex-start; */
+/* } */

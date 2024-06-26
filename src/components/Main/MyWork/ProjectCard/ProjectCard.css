@@ -17,3 +17,9 @@
 .project-link {
     cursor: pointer;
 }
+
+@media screen and (max-width: 510px) {
+    .project-card {
+        width: 100vw;
+    }
+}
