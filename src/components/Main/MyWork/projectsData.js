@@ -6,7 +6,7 @@ const projectsData = [
     {
         img: utiliSuite,
         name: "UtiliSuite",
-        description: "",
+        description: "A suite of utility tools all in one application, using a Spring Boot back end and React front end.",
         liveLink: "",
         githubLink: "https://github.com/jcogs94/utiliSuite.git"
     },
