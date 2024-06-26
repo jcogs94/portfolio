@@ -1,5 +1,7 @@
 import utiliSuite from './img/utiliSuite.jpg'
 import instrumentManagement from './img/instrumentManagement.jpg'
+import todo from './img/todo.jpg'
+import cruddyCash from './img/cruddyCash.jpg'
 import qwixx from './img/qwixx.jpg'
 
 const projectsData = [
@@ -18,14 +20,14 @@ const projectsData = [
         githubLink: "https://github.com/jcogs94/unit4-front-end.git"
     },
     {
-        img: "",
+        img: todo,
         name: "ToDo or Not ToDo",
         description: "A full stack MERN application for managing ToDo tasks. For this group project I worked as the Front-End Manager and Lead Developer.",
         liveLink: "",
         githubLink: "https://github.com/jcogs94/todo-or-not-todo-frontend.git"
     },
     {
-        img: "",
+        img: cruddyCash,
         name: "Cruddy Cash",
         description: "Personal budgeting application with full CRUD capabilities, utilizing user authentication and mobile-focused development.",
         liveLink: "",
