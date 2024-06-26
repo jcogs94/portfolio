@@ -26,3 +26,16 @@
 #download-resume {
     cursor: pointer;
 }
+
+@media screen and (max-width: 488px) {
+    #about-me {
+        width: 100%;
+        padding: 0 5px;
+        flex-direction: column;
+    }
+
+    #about-me-content {
+        width: 100%;
+        padding: 0 10px;
+    }
+}
