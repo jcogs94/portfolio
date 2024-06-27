@@ -37,7 +37,7 @@ const projectsData = [
         img: qwixx,
         name: "Qwixx",
         description: "Based on the dice game produced by GameWright, this app allows users to play the game without pen and paper.",
-        liveLink: "",
+        liveLink: "https://qwixx.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/qwixx.git"
     },
 ]
