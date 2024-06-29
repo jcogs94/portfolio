@@ -16,7 +16,7 @@ const projectsData = [
         img: instrumentManagement,
         name: "Instrument Rental Management",
         description: "An organization and management tool for tracking instrument rentals. I worked as the Lead Front-End Developer for this team project.",
-        liveLink: "",
+        liveLink: "http://projects.joncogswell.com:3005/",
         githubLink: "https://github.com/jcogs94/unit4-front-end.git"
     },
     {
