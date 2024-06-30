@@ -30,7 +30,7 @@ const projectsData = [
         img: cruddyCash,
         name: "CRUDdy Cash",
         description: "Personal budgeting application with full CRUD capabilities, utilizing user authentication and mobile-focused development.",
-        liveLink: "http://projects.joncogswell.com:3001/",
+        liveLink: "http://projects.joncogswell.com:8080/",
         githubLink: "https://github.com/jcogs94/cruddy-cash.git"
     },
     {
