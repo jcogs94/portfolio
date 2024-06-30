@@ -23,7 +23,7 @@ const projectsData = [
         img: todo,
         name: "ToDo or Not ToDo",
         description: "A full stack MERN application for managing ToDo tasks. For this group project I worked as the Front-End Manager and Lead Developer.",
-        liveLink: "http://projects.joncogswell.com:3002/",
+        liveLink: "http://projects.joncogswell.com:8081/",
         githubLink: "https://github.com/jcogs94/todo-or-not-todo-frontend.git"
     },
     {
