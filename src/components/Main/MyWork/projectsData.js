@@ -9,7 +9,7 @@ const projectsData = [
         img: utiliSuite,
         name: "UtiliSuite",
         description: "A suite of utility tools all in one application, using a Spring Boot back end and React front end.",
-        liveLink: "http://projects.joncogswell.com:8080/",
+        liveLink: "http://projects.joncogswell.com:8086/",
         githubLink: "https://github.com/jcogs94/utiliSuite.git"
     },
     {
@@ -30,7 +30,7 @@ const projectsData = [
         img: cruddyCash,
         name: "CRUDdy Cash",
         description: "Personal budgeting application with full CRUD capabilities, utilizing user authentication and mobile-focused development.",
-        liveLink: "http://projects.joncogswell.com:8080/",
+        liveLink: "http://projects.joncogswell.com:8085/",
         githubLink: "https://github.com/jcogs94/cruddy-cash.git"
     },
     {
