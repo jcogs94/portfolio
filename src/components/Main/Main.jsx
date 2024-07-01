@@ -8,9 +8,9 @@ const Main = () => {
     return <>
         <main>
             <Hero />
+            <AboutMe />
             <Skills />
             <MyWork />
-            <AboutMe />
         </main>
     </>
 }

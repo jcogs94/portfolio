@@ -2,3 +2,14 @@
     width: 100%;
     height: auto;
 }
+
+/* @media screen and (min-width: 1300px) {
+    #hero {
+        max-height: 400px;
+    }
+    
+    #hero > img {
+        clip-path: inset(0 0 30% 0);
+        box-sizing: content-box;
+    }
+} */
