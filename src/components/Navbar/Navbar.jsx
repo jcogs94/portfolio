@@ -1,3 +1,4 @@
+import resume from '../../assets/resume.pdf'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -5,10 +6,11 @@ const Navbar = () => {
         <nav>
             <a href="main"><h1>Jon Cogswell</h1></a>
             <div id="nav-links">
-                <a href='#skills'>Skills</a>
-                <a href='#my-work'>My Work</a>
-                <a href='#about-me'>About Me</a>
-                <a href='#contact-me'>Contact Me</a>
+                <a className='hidden-on-mobile' href='#skills'>Skills</a>
+                <a className='hidden-on-mobile' href='#my-work'>My Work</a>
+                <a className='hidden-on-mobile' href='#about-me'>About Me</a>
+                <a className='hidden-on-mobile' href='#contact-me'>Contact Me</a>
+                <a href={resume} target='_blank'><button id='view-resume-button'>View My Resume</button></a>
             </div>
         </nav>
     </>
