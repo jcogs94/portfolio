@@ -1,3 +1,4 @@
+import chefsChoice from './img/chefsChoice.jpg'
 import utiliSuite from './img/utiliSuite.jpg'
 import instrumentManagement from './img/instrumentManagement.jpg'
 import todo from './img/todo.jpg'
@@ -5,6 +6,15 @@ import cruddyCash from './img/cruddyCash.jpg'
 import qwixx from './img/qwixx.jpg'
 
 const projectsData = [
+    {
+        img: chefsChoice,
+        name: "Chef's Choice",
+        date: "July 2024",
+        description: "A recipe website for viewing and adding recipes using a Django back end and React front end.",
+        skills: ["Django", "React", "PostgreSQL"],
+        liveLink: "http://projects.joncogswell.com:8089/",
+        githubLink: "https://github.com/jcogs94/chefs-choice"
+    },
     {
         img: utiliSuite,
         name: "UtiliSuite",
