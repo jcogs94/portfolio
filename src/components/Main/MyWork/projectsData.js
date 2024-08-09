@@ -12,7 +12,7 @@ const projectsData = [
         date: "July 2024",
         description: "A recipe website for viewing and adding recipes using a Django back end and React front end.",
         skills: ["Django", "React", "PostgreSQL"],
-        liveLink: "http://projects.joncogswell.com:8089/",
+        liveLink: "http://chefs-choice.projects.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/chefs-choice"
     },
     {
@@ -21,7 +21,7 @@ const projectsData = [
         date: "June 2024",
         description: "A suite of utility tools all in one application, using a Spring Boot back end and React front end.",
         skills: ["Java", "Spring Boot", "React", "MySQL"],
-        liveLink: "http://projects.joncogswell.com:8086/",
+        liveLink: "http://utilisuite.projects.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/utiliSuite.git"
     },
     {
@@ -30,7 +30,7 @@ const projectsData = [
         date: "June 2024",
         description: "An organization and management tool for tracking instrument rentals. I worked as the Lead Front-End Developer for this team project.",
         skills: ["Python", "Django", "React", "PostgreSQL"],
-        liveLink: "http://projects.joncogswell.com:8084/",
+        liveLink: "http://instruments.projects.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/unit4-front-end.git"
     },
     {
@@ -39,7 +39,7 @@ const projectsData = [
         date: "May 2024",
         description: "A full stack MERN application for managing ToDo tasks. For this group project I worked as the Front-End Manager and Lead Developer.",
         skills: ["React", "Express.js", "API", "RESTful Routing", "MongoDB"],
-        liveLink: "http://projects.joncogswell.com:8081/",
+        liveLink: "http://todo.projects.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/todo-or-not-todo-frontend.git"
     },
     {
@@ -48,7 +48,7 @@ const projectsData = [
         date: "May 2024",
         description: "Personal budgeting application with full CRUD capabilities, utilizing user authentication and mobile-focused development.",
         skills: ["Express.js", "MongoDB", "Mongoose", "EJS"],
-        liveLink: "http://projects.joncogswell.com:8085/",
+        liveLink: "http://cruddy-cash.projects.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/cruddy-cash.git"
     },
     {
@@ -57,7 +57,7 @@ const projectsData = [
         date: "April 2024",
         description: "Based on the dice game produced by GameWright, this app allows users to play the game without pen and paper.",
         skills: ["HTML", "CSS", "JavaScript"],
-        liveLink: "https://qwixx.joncogswell.com/",
+        liveLink: "http://qwixx.projects.joncogswell.com/",
         githubLink: "https://github.com/jcogs94/qwixx.git"
     },
 ]
